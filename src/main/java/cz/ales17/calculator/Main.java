@@ -4,8 +4,6 @@ import java.util.Scanner;
 import cz.ales17.calculator.Calculator;
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-
         Calculator calculator = new Calculator();
         calculator.start();
     }
